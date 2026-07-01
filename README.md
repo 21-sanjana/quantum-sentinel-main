@@ -66,13 +66,13 @@ Sensitive information is protected using **Post-Quantum Cryptography**, while bl
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/<repository-name>.git
+git clone https://github.com/21-sanjana/quantum-sentinel-main.git
 ```
 
 ### 2️⃣ Navigate to the Project
 
 ```bash
-cd <repository-name>
+cd quantum-sentinel-main
 ```
 
 ### 3️⃣ Install Dependencies
